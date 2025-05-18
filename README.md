@@ -1,2 +1,4 @@
 # Demo-repo
-This is my fiorst git repository
+This is my first git repository
+<br>
+Author - Rujul Jaywant
